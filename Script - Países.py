@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Análise de Cluster
-# MBA em Data Science e Analytics USP ESALQ
-
-# Prof. Dr. Wilson Tarantin Junior
-
 #%% Instalando os pacotes
 
 !pip install pandas
